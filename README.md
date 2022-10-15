@@ -4,6 +4,7 @@
     <img align="right" src="https://count.getloli.com/get/@:wangrongding" alt="汪荣顶" />
   </div>
 </a> -->
+<img width="100%" alt="game gif" src="banner.gif"/>
 
 <p align="center">
   <a href="https://github.com/HackenLeung"><img src="https://github-readme-stats.vercel.app/api?username=HackenLeung&hide_border=true&show_icons=true" alt="HackenLeung's github stats"></a>
