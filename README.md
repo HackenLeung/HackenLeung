@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/HackenLeung"><img src="https://github-readme-stats.vercel.app/api?username=HackenLeung&hide_border=true&show_icons=true" alt="HackenLeung's github stats"></a>
+  <a href="https://github.com/HackenLeung"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackenLeung&langs_count=8" alt="HackenLeung's github stats"></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
